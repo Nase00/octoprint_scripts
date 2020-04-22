@@ -1,0 +1,11 @@
+{
+  "name": "octoprint_scripts",
+  "version": "1.0.0",
+  "description": "Script for my personal Octoprint setup.",
+  "main": "on_complete.js",
+  "scripts": {
+    "triggerNanoleaf": "node ./triggerNanoleaf.js"
+  },
+  "author": "Sean Owiecki",
+  "license": "MIT"
+}
