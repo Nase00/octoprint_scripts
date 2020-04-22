@@ -4,7 +4,7 @@
   "description": "Script for my personal Octoprint setup.",
   "main": "on_complete.js",
   "scripts": {
-    "triggerNanoleaf": "node ./triggerNanoleaf.js"
+    "triggerNanoleaf": "node ./trigger_nanoleaf.js"
   },
   "author": "Sean Owiecki",
   "license": "MIT"
